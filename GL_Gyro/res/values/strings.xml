@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GL_Gyro</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="calibration_dialog_message">Please put your phone on the desktop.</string>
+    <string name="calibration_dialog_button_confirm">OK</string>
+    <string name="calibration_button">Calibration</string>
+
+</resources>

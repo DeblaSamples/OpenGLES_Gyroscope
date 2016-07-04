@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calibration_dialog_message">请把手机在桌面上放平</string>
+    <string name="calibration_dialog_button_confirm">确认</string>
+    <string name="calibration_button">校准</string>
+</resources>
